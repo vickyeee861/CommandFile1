@@ -1,0 +1,10 @@
+1, cd = To using changing a directory
+2, ls = To using list of the directory
+3, mkdir = To using making a directory
+4, rm = To using remove a file
+5, rm -r = To using remove a directory(recrasive)
+6, git clone = To using repositry into a new directory
+7, git add = To using add file contents to the index
+8, git commit = To using record changes to the repository
+9, git push = To using update remote refs along with associated objects
+10, git status = To using show the working tree status
