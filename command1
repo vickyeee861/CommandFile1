@@ -8,3 +8,4 @@
 8, git commit = To using record changes to the repository
 9, git push = To using update remote refs along with associated objects
 10, git status = To using show the working tree status
+11, cp = To using copy the file

@@ -42,5 +42,5 @@
   433  git status
   434  git commit -m "my test file"
   435  git push origin master
-  436  history working
+  436  history
 
